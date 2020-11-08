@@ -1,7 +1,0 @@
-
-config global
-	option port '8088'
-	option root_path '/mnt/sda1'
-	option project_directory '/mnt/sda1/filebrowser'
-	option enable '0'
-
